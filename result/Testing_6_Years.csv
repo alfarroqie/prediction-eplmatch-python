@@ -1,0 +1,314 @@
+Matchday,Date,HomeTeam,AwayTeam,HomeWin,Draw,HomeLose,ActualResult
+1,09/08/2019,Liverpool,Norwich City,44.38%,37.87%,17.75%,H
+1,10/08/2019,West Ham United,Manchester City,46.87%,25.00%,28.12%,A
+1,10/08/2019,Bournemouth,Sheffield United,33.33%,33.33%,33.33%,D
+1,10/08/2019,Burnley,Southampton,46.68%,36.30%,17.02%,H
+1,10/08/2019,Watford,Brighton & Hove Albion,33.33%,33.33%,33.33%,A
+1,10/08/2019,Crystal Palace,Everton,14.73%,44.88%,40.39%,D
+1,10/08/2019,Tottenham Hotspur,Aston Villa,42.18%,18.45%,39.37%,H
+1,11/08/2019,Newcastle United,Arsenal,33.33%,33.33%,33.33%,A
+1,11/08/2019,Leicester City,Wolverhampton Wanderers,33.33%,33.33%,33.33%,D
+1,11/08/2019,Manchester United,Chelsea,26.81%,59.57%,13.62%,H
+2,17/08/2019,Arsenal,Burnley,58.33%,20.83%,20.83%,H
+2,17/08/2019,Brighton & Hove Albion,West Ham United,33.33%,33.33%,33.33%,D
+2,17/08/2019,Southampton,Liverpool,52.94%,17.65%,29.41%,A
+2,17/08/2019,Everton,Watford,37.50%,50.00%,12.50%,H
+2,17/08/2019,Norwich City,Newcastle United,33.33%,33.33%,33.33%,H
+2,17/08/2019,Aston Villa,Bournemouth,16.84%,15.79%,67.37%,H
+2,17/08/2019,Manchester City,Tottenham Hotspur,42.42%,32.32%,25.25%,D
+2,18/08/2019,Sheffield United,Crystal Palace,33.33%,33.33%,33.33%,H
+2,18/08/2019,Chelsea,Leicester City,52.92%,34.73%,12.35%,D
+2,19/09/2019,Wolverhampton Wanderers,Manchester United,33.33%,33.33%,33.33%,D
+3,23/08/2019,Aston Villa,Everton,38.89%,19.44%,41.67%,H
+3,24/08/2019,Norwich City,Chelsea,20.79%,22.18%,57.03%,A
+3,24/08/2019,Brighton & Hove Albion,Southampton,33.33%,33.33%,33.33%,A
+3,24/08/2019,Watford,West Ham United,46.68%,36.30%,17.02%,A
+3,24/08/2019,Sheffield United,Leicester City,33.33%,33.33%,33.33%,A
+3,24/08/2019,Manchester United,Crystal Palace,61.89%,19.67%,18.44%,A
+3,24/08/2019,Liverpool,Arsenal,50.36%,34.53%,15.11%,H
+3,25/08/2019,Bournemouth,Manchester City,13.16%,13.16%,73.68%,A
+3,25/08/2019,Tottenham Hotspur,Newcastle United,33.33%,33.33%,33.33%,A
+3,25/08/2019,Wolverhampton Wanderers,Burnley,33.33%,33.33%,33.33%,D
+4,31/08/2019,Southampton,Manchester United,26.50%,33.12%,40.38%,D
+4,31/08/2019,Crystal Palace,Aston Villa,64.14%,12.47%,23.39%,H
+4,31/08/2019,Manchester City,Brighton & Hove Albion,33.33%,33.33%,33.33%,H
+4,31/08/2019,Newcastle United,Watford,33.33%,33.33%,33.33%,D
+4,31/08/2019,Leicester City,Bournemouth,12.25%,74.68%,13.07%,H
+4,31/08/2019,West Ham United,Norwich City,49.45%,32.97%,17.58%,H
+4,31/08/2019,Chelsea,Sheffield United,33.33%,33.33%,33.33%,D
+4,31/08/2019,Burnley,Liverpool,54.47%,13.62%,31.91%,A
+4,01/09/2019,Everton,Wolverhampton Wanderers,33.33%,33.33%,33.33%,H
+4,01/09/2019,Arsenal,Tottenham Hotspur,36.74%,59.54%,3.72%,D
+5,14/09/2019,Liverpool,Newcastle United,33.33%,33.33%,33.33%,H
+5,14/09/2019,Sheffield United,Southampton,33.33%,33.33%,33.33%,A
+5,14/09/2019,Wolverhampton Wanderers,Chelsea,33.33%,33.33%,33.33%,A
+5,14/09/2019,Brighton & Hove Albion,Burnley,33.33%,33.33%,33.33%,D
+5,14/09/2019,Tottenham Hotspur,Crystal Palace,73.77%,17.49%,8.74%,H
+5,14/09/2019,Manchester United,Leicester City,67.92%,24.84%,7.24%,H
+5,14/09/2019,Norwich City,Manchester City,44.44%,41.67%,13.89%,H
+5,15/09/2019,Bournemouth,Everton,63.47%,30.09%,6.45%,H
+5,15/09/2019,Watford,Arsenal,40.00%,10.00%,50.00%,D
+5,16/09/2019,Aston Villa,West Ham United,28.61%,52.32%,19.07%,D
+6,20/09/2019,Southampton,Bournemouth,64.14%,23.39%,12.47%,A
+6,21/09/2019,Leicester City,Tottenham Hotspur,38.10%,38.10%,23.81%,H
+6,21/09/2019,Manchester City,Watford,48.28%,17.24%,34.48%,H
+6,21/09/2019,Burnley,Norwich City,33.33%,33.33%,33.33%,H
+6,21/09/2019,Everton,Sheffield United,33.33%,33.33%,33.33%,A
+6,21/09/2019,Newcastle United,Brighton & Hove Albion,33.33%,33.33%,33.33%,D
+6,22/09/2019,Crystal Palace,Wolverhampton Wanderers,33.33%,33.33%,33.33%,D
+6,22/09/2019,West Ham United,Manchester United,33.73%,48.19%,18.07%,H
+6,22/09/2019,Chelsea,Liverpool,14.25%,17.37%,68.39%,A
+6,22/09/2019,Arsenal,Aston Villa,34.71%,12.40%,52.89%,H
+7,28/09/2019,Sheffield United,Liverpool,33.33%,33.33%,33.33%,A
+7,28/09/2019,Crystal Palace,Norwich City,55.56%,29.63%,14.81%,H
+7,28/09/2019,Wolverhampton Wanderers,Watford,33.33%,33.33%,33.33%,H
+7,28/09/2019,Chelsea,Brighton & Hove Albion,33.33%,33.33%,33.33%,H
+7,28/09/2019,Aston Villa,Burnley,18.99%,40.51%,40.51%,D
+7,28/09/2019,Tottenham Hotspur,Southampton,69.68%,9.68%,20.65%,H
+7,28/09/2019,Bournemouth,West Ham United,33.33%,33.33%,33.33%,D
+7,28/09/2019,Everton,Manchester City,48.46%,26.92%,24.62%,A
+7,29/09/2019,Leicester City,Newcastle United,33.33%,33.33%,33.33%,H
+7,30/09/2019,Manchester United,Arsenal,56.64%,30.97%,12.39%,D
+8,05/10/2019,Brighton & Hove Albion,Tottenham Hotspur,33.33%,33.33%,33.33%,H
+8,05/10/2019,Liverpool,Leicester City,59.59%,20.86%,19.55%,H
+8,05/10/2019,Burnley,Everton,45.82%,8.35%,45.82%,H
+8,05/10/2019,Norwich City,Aston Villa,26.23%,12.30%,61.48%,A
+8,05/10/2019,Watford,Sheffield United,33.33%,33.33%,33.33%,D
+8,05/10/2019,West Ham United,Crystal Palace,10.84%,35.67%,53.50%,A
+8,06/10/2019,Manchester City,Wolverhampton Wanderers,33.33%,33.33%,33.33%,A
+8,06/10/2019,Arsenal,Bournemouth,82.42%,8.79%,8.79%,H
+8,06/10/2019,Southampton,Chelsea,14.79%,13.52%,71.69%,A
+8,06/10/2019,Newcastle United,Manchester United,33.33%,33.33%,33.33%,H
+9,19/10/2019,Everton,West Ham United,72.11%,9.30%,18.59%,H
+9,19/10/2019,Tottenham Hotspur,Watford,59.59%,20.86%,19.55%,D
+9,19/10/2019,Leicester City,Burnley,51.02%,39.68%,9.30%,H
+9,19/10/2019,Chelsea,Newcastle United,33.33%,33.33%,33.33%,H
+9,19/10/2019,Wolverhampton Wanderers,Southampton,33.33%,33.33%,33.33%,D
+9,19/10/2019,Bournemouth,Norwich City,67.37%,15.79%,16.84%,D
+9,19/10/2019,Aston Villa,Brighton & Hove Albion,33.33%,33.33%,33.33%,H
+9,19/10/2019,Crystal Palace,Manchester City,31.37%,15.69%,52.94%,A
+9,20/10/2019,Manchester United,Liverpool,58.38%,30.50%,11.12%,D
+9,21/10/2019,Sheffield United,Arsenal,33.33%,33.33%,33.33%,H
+10,25/10/2019,Southampton,Leicester City,45.06%,41.20%,13.73%,A
+10,26/10/2019,Manchester City,Aston Villa,58.82%,20.59%,20.59%,H
+10,26/10/2019,West Ham United,Sheffield United,33.33%,33.33%,33.33%,D
+10,26/10/2019,Watford,Bournemouth,9.52%,81.56%,8.92%,D
+10,26/10/2019,Brighton & Hove Albion,Everton,33.33%,33.33%,33.33%,H
+10,26/10/2019,Burnley,Chelsea,18.36%,34.43%,47.21%,A
+10,27/10/2019,Newcastle United,Wolverhampton Wanderers,33.33%,33.33%,33.33%,D
+10,27/10/2019,Liverpool,Tottenham Hotspur,53.57%,38.27%,8.16%,H
+10,27/10/2019,Norwich City,Manchester United,23.36%,21.90%,54.74%,A
+10,27/10/2019,Arsenal,Crystal Palace,41.28%,29.36%,29.36%,D
+11,02/11/2019,Bournemouth,Manchester United,37.43%,18.71%,43.86%,H
+11,02/11/2019,West Ham United,Newcastle United,33.33%,33.33%,33.33%,A
+11,02/11/2019,Brighton & Hove Albion,Norwich City,33.33%,33.33%,33.33%,H
+11,02/11/2019,Arsenal,Wolverhampton Wanderers,33.33%,33.33%,33.33%,D
+11,02/11/2019,Aston Villa,Liverpool,19.72%,9.86%,70.42%,A
+11,02/11/2019,Manchester City,Southampton,61.78%,25.48%,12.74%,H
+11,02/11/2019,Sheffield United,Burnley,33.33%,33.33%,33.33%,H
+11,02/11/2019,Watford,Chelsea,52.71%,24.71%,22.59%,A
+11,03/11/2019,Crystal Palace,Leicester City,71.62%,15.28%,13.10%,A
+11,03/11/2019,Everton,Tottenham Hotspur,16.27%,49.57%,34.16%,D
+12,08/11/2019,Norwich City,Watford,50.79%,23.81%,25.40%,A
+12,09/11/2019,Chelsea,Crystal Palace,48.28%,8.62%,43.10%,H
+12,09/11/2019,Tottenham Hotspur,Sheffield United,33.33%,33.33%,33.33%,D
+12,09/11/2019,Southampton,Everton,78.15%,11.43%,10.42%,A
+12,09/11/2019,Newcastle United,Bournemouth,33.33%,33.33%,33.33%,H
+12,09/11/2019,Burnley,West Ham United,10.32%,41.29%,48.39%,H
+12,09/11/2019,Leicester City,Arsenal,26.08%,36.67%,37.25%,H
+12,10/11/2019,Manchester United,Brighton & Hove Albion,33.33%,33.33%,33.33%,H
+12,10/11/2019,Wolverhampton Wanderers,Aston Villa,33.33%,33.33%,33.33%,H
+12,10/11/2019,Liverpool,Manchester City,74.81%,8.91%,16.28%,H
+13,23/11/2019,West Ham United,Tottenham Hotspur,49.65%,4.96%,45.39%,A
+13,23/11/2019,Watford,Burnley,60.13%,14.09%,25.77%,A
+13,23/11/2019,Brighton & Hove Albion,Leicester City,33.33%,33.33%,33.33%,A
+13,23/11/2019,Everton,Norwich City,59.21%,19.74%,21.05%,A
+13,23/11/2019,Crystal Palace,Liverpool,30.72%,13.11%,56.17%,A
+13,23/11/2019,Bournemouth,Wolverhampton Wanderers,33.33%,33.33%,33.33%,A
+13,23/11/2019,Arsenal,Southampton,81.08%,11.82%,7.09%,D
+13,23/11/2019,Manchester City,Chelsea,40.38%,26.50%,33.12%,H
+13,24/11/2019,Sheffield United,Manchester United,33.33%,33.33%,33.33%,D
+13,25/11/2019,Aston Villa,Newcastle United,33.33%,33.33%,33.33%,H
+14,30/11/2019,Newcastle United,Manchester City,33.33%,33.33%,33.33%,D
+14,30/11/2019,Burnley,Crystal Palace,66.56%,17.26%,16.18%,A
+14,30/11/2019,Liverpool,Brighton & Hove Albion,33.33%,33.33%,33.33%,H
+14,30/11/2019,Tottenham Hotspur,Bournemouth,59.59%,20.86%,19.55%,H
+14,30/11/2019,Chelsea,West Ham United,49.75%,32.49%,17.77%,A
+14,30/11/2019,Southampton,Watford,24.71%,22.59%,52.71%,H
+14,01/12/2019,Wolverhampton Wanderers,Sheffield United,33.33%,33.33%,33.33%,D
+14,01/12/2019,Norwich City,Arsenal,20.83%,44.44%,34.72%,D
+14,01/12/2019,Manchester United,Aston Villa,45.85%,27.95%,26.20%,D
+14,01/12/2019,Leicester City,Everton,36.64%,26.72%,36.64%,H
+15,03/12/2019,Crystal Palace,Bournemouth,7.13%,50.11%,42.76%,H
+15,03/12/2019,Burnley,Manchester City,35.28%,49.61%,15.12%,A
+15,04/12/2019,Southampton,Norwich City,74.38%,13.22%,12.40%,H
+15,04/12/2019,Wolverhampton Wanderers,West Ham United,33.33%,33.33%,33.33%,H
+15,04/12/2019,Leicester City,Watford,83.33%,8.33%,8.33%,H
+15,04/12/2019,Manchester United,Tottenham Hotspur,64.13%,18.76%,17.10%,H
+15,04/12/2019,Chelsea,Aston Villa,47.19%,16.85%,35.96%,H
+15,04/12/2019,Liverpool,Everton,40.59%,47.23%,12.18%,H
+15,05/12/2019,Sheffield United,Newcastle United,33.33%,33.33%,33.33%,A
+15,05/12/2019,Arsenal,Brighton & Hove Albion,33.33%,33.33%,33.33%,A
+16,07/12/2019,Everton,Chelsea,53.13%,35.42%,11.45%,H
+16,07/12/2019,Watford,Crystal Palace,18.09%,50.89%,31.02%,D
+16,07/12/2019,Tottenham Hotspur,Burnley,65.22%,17.39%,17.39%,H
+16,07/12/2019,Bournemouth,Liverpool,41.29%,10.32%,48.39%,A
+16,07/12/2019,Manchester City,Manchester United,21.91%,20.86%,57.23%,A
+16,08/12/2019,Norwich City,Sheffield United,33.33%,33.33%,33.33%,A
+16,08/12/2019,Newcastle United,Southampton,33.33%,33.33%,33.33%,H
+16,08/12/2019,Aston Villa,Leicester City,54.86%,36.57%,8.57%,A
+16,08/12/2019,Brighton & Hove Albion,Wolverhampton Wanderers,33.33%,33.33%,33.33%,D
+16,09/12/2019,West Ham United,Arsenal,12.03%,33.83%,54.14%,A
+17,14/12/2019,Liverpool,Watford,75.76%,12.12%,12.12%,H
+17,14/12/2019,Chelsea,Bournemouth,25.00%,7.50%,67.50%,A
+17,14/12/2019,Sheffield United,Aston Villa,33.33%,33.33%,33.33%,H
+17,14/12/2019,Burnley,Newcastle United,33.33%,33.33%,33.33%,H
+17,14/12/2019,Leicester City,Norwich City,66.67%,16.67%,16.67%,D
+17,14/12/2019,Southampton,West Ham United,48.43%,35.42%,16.14%,A
+17,15/12/2019,Wolverhampton Wanderers,Tottenham Hotspur,33.33%,33.33%,33.33%,A
+17,15/12/2019,Manchester United,Everton,42.46%,24.26%,33.28%,D
+17,15/12/2019,Arsenal,Manchester City,43.98%,18.32%,37.70%,A
+17,16/12/2019,Crystal Palace,Brighton & Hove Albion,33.33%,33.33%,33.33%,D
+18,21/12/2019,Everton,Arsenal,60.99%,24.78%,14.23%,D
+18,21/12/2019,Newcastle United,Crystal Palace,33.33%,33.33%,33.33%,H
+18,21/12/2019,Aston Villa,Southampton,7.22%,37.11%,55.67%,A
+18,21/12/2019,Bournemouth,Burnley,57.14%,14.29%,28.57%,A
+18,21/12/2019,Brighton & Hove Albion,Sheffield United,33.33%,33.33%,33.33%,A
+18,21/12/2019,Norwich City,Wolverhampton Wanderers,33.33%,33.33%,33.33%,A
+18,21/12/2019,Manchester City,Leicester City,52.92%,12.35%,34.73%,H
+18,22/12/2019,Watford,Manchester United,56.49%,13.24%,30.26%,H
+18,22/12/2019,Tottenham Hotspur,Chelsea,72.48%,16.51%,11.01%,A
+18,29/01/2020,West Ham United,Liverpool,67.92%,13.21%,18.87%,A
+19,26/12/2019,Tottenham Hotspur,Brighton & Hove Albion,33.33%,33.33%,33.33%,H
+19,26/12/2019,Chelsea,Southampton,35.28%,37.43%,27.29%,A
+19,26/12/2019,Aston Villa,Norwich City,78.40%,10.45%,11.15%,H
+19,26/12/2019,Bournemouth,Arsenal,45.71%,30.48%,23.81%,D
+19,26/12/2019,Crystal Palace,West Ham United,34.70%,23.13%,42.17%,H
+19,26/12/2019,Sheffield United,Watford,33.33%,33.33%,33.33%,D
+19,26/12/2019,Everton,Burnley,49.23%,17.95%,32.82%,H
+19,26/12/2019,Manchester United,Newcastle United,33.33%,33.33%,33.33%,H
+19,26/12/2019,Leicester City,Liverpool,69.11%,9.83%,21.06%,A
+19,27/12/2019,Wolverhampton Wanderers,Manchester City,33.33%,33.33%,33.33%,H
+20,28/12/2019,Brighton & Hove Albion,Bournemouth,33.33%,33.33%,33.33%,H
+20,28/12/2019,Southampton,Crystal Palace,59.92%,6.18%,33.90%,D
+20,28/12/2019,Newcastle United,Everton,33.33%,33.33%,33.33%,A
+20,28/12/2019,Watford,Aston Villa,50.00%,25.00%,25.00%,H
+20,28/12/2019,Norwich City,Tottenham Hotspur,44.68%,29.79%,25.53%,D
+20,28/12/2019,West Ham United,Leicester City,57.14%,19.05%,23.81%,A
+20,28/12/2019,Burnley,Manchester United,17.95%,32.82%,49.23%,A
+20,29/12/2019,Arsenal,Chelsea,33.33%,52.08%,14.58%,A
+20,29/12/2019,Liverpool,Wolverhampton Wanderers,33.33%,33.33%,33.33%,H
+20,29/12/2019,Manchester City,Sheffield United,33.33%,33.33%,33.33%,H
+21,01/01/2020,Burnley,Aston Villa,25.40%,50.79%,23.81%,A
+21,01/01/2020,Brighton & Hove Albion,Chelsea,33.33%,33.33%,33.33%,D
+21,01/01/2020,Southampton,Tottenham Hotspur,14.78%,41.57%,43.65%,H
+21,01/01/2020,Newcastle United,Leicester City,33.33%,33.33%,33.33%,A
+21,01/01/2020,Watford,Wolverhampton Wanderers,33.33%,33.33%,33.33%,H
+21,01/01/2020,Norwich City,Crystal Palace,19.48%,41.56%,38.96%,D
+21,01/01/2020,Manchester City,Everton,31.12%,62.24%,6.64%,H
+21,01/01/2020,West Ham United,Bournemouth,16.67%,50.00%,33.33%,H
+21,01/01/2020,Arsenal,Manchester United,40.94%,24.95%,34.11%,H
+21,02/01/2020,Liverpool,Sheffield United,33.33%,33.33%,33.33%,H
+22,10/01/2020,Sheffield United,West Ham United,33.33%,33.33%,33.33%,H
+22,11/01/2020,Crystal Palace,Arsenal,49.16%,6.15%,44.69%,D
+22,11/01/2020,Chelsea,Burnley,18.36%,60.23%,21.41%,H
+22,11/01/2020,Everton,Brighton & Hove Albion,33.33%,33.33%,33.33%,H
+22,11/01/2020,Manchester United,Norwich City,27.52%,13.76%,58.72%,H
+22,11/01/2020,Wolverhampton Wanderers,Newcastle United,33.33%,33.33%,33.33%,D
+22,11/01/2020,Leicester City,Southampton,53.63%,26.82%,19.55%,A
+22,11/01/2020,Tottenham Hotspur,Liverpool,48.98%,38.27%,12.76%,A
+22,12/01/2020,Bournemouth,Watford,10.01%,68.64%,21.35%,A
+22,12/01/2020,Aston Villa,Manchester City,20.83%,44.44%,34.72%,A
+23,18/01/2020,Watford,Tottenham Hotspur,15.24%,32.51%,52.25%,D
+23,18/01/2020,Manchester City,Crystal Palace,75.19%,16.54%,8.27%,D
+23,18/01/2020,Norwich City,Bournemouth,67.37%,15.79%,16.84%,H
+23,18/01/2020,Southampton,Wolverhampton Wanderers,33.33%,33.33%,33.33%,A
+23,18/01/2020,Arsenal,Sheffield United,33.33%,33.33%,33.33%,D
+23,18/01/2020,West Ham United,Everton,30.66%,45.99%,23.36%,D
+23,18/01/2020,Brighton & Hove Albion,Aston Villa,33.33%,33.33%,33.33%,D
+23,18/01/2020,Newcastle United,Chelsea,33.33%,33.33%,33.33%,H
+23,19/01/2020,Burnley,Leicester City,75.66%,8.97%,15.37%,H
+23,19/01/2020,Liverpool,Manchester United,17.50%,45.00%,37.50%,H
+24,21/01/2020,Everton,Newcastle United,33.33%,33.33%,33.33%,D
+24,21/01/2020,Sheffield United,Manchester City,33.33%,33.33%,33.33%,A
+24,21/01/2020,Bournemouth,Brighton & Hove Albion,33.33%,33.33%,33.33%,H
+24,21/01/2020,Crystal Palace,Southampton,46.68%,5.67%,47.65%,A
+24,21/01/2020,Aston Villa,Watford,25.00%,25.00%,50.00%,H
+24,21/01/2020,Chelsea,Arsenal,56.82%,27.27%,15.91%,D
+24,22/01/2020,Leicester City,West Ham United,65.22%,17.39%,17.39%,H
+24,22/01/2020,Tottenham Hotspur,Norwich City,65.69%,10.95%,23.36%,H
+24,22/01/2020,Manchester United,Burnley,32.82%,49.23%,17.95%,A
+24,23/01/2020,Wolverhampton Wanderers,Liverpool,33.33%,33.33%,33.33%,A
+25,01/02/2020,Leicester City,Chelsea,34.51%,16.18%,49.31%,D
+25,01/02/2020,Crystal Palace,Sheffield United,33.33%,33.33%,33.33%,A
+25,01/02/2020,Bournemouth,Aston Villa,25.40%,23.81%,50.79%,H
+25,01/02/2020,Newcastle United,Norwich City,33.33%,33.33%,33.33%,D
+25,01/02/2020,Watford,Everton,75.00%,16.67%,8.33%,A
+25,01/02/2020,West Ham United,Brighton & Hove Albion,33.33%,33.33%,33.33%,D
+25,01/02/2020,Liverpool,Southampton,27.78%,33.33%,38.89%,H
+25,01/02/2020,Manchester United,Wolverhampton Wanderers,33.33%,33.33%,33.33%,D
+25,02/02/2020,Burnley,Arsenal,34.48%,17.24%,48.28%,D
+25,02/02/2020,Tottenham Hotspur,Manchester City,32.73%,12.73%,54.55%,H
+26,08/02/2020,Everton,Crystal Palace,20.71%,28.32%,50.97%,H
+26,08/02/2020,Brighton & Hove Albion,Watford,33.33%,33.33%,33.33%,D
+26,09/02/2020,Sheffield United,Bournemouth,33.33%,33.33%,33.33%,H
+26,14/02/2020,Wolverhampton Wanderers,Leicester City,33.33%,33.33%,33.33%,D
+26,15/02/2020,Southampton,Burnley,69.43%,16.46%,14.11%,A
+26,15/02/2020,Norwich City,Liverpool,12.40%,13.22%,74.38%,A
+26,16/02/2020,Aston Villa,Tottenham Hotspur,23.36%,21.90%,54.74%,A
+26,16/02/2020,Arsenal,Newcastle United,33.33%,33.33%,33.33%,H
+26,17/02/2020,Chelsea,Manchester United,65.84%,28.89%,5.27%,A
+26,19/02/2020,Manchester City,West Ham United,53.30%,16.24%,30.46%,H
+27,22/02/2020,Chelsea,Tottenham Hotspur,77.69%,11.65%,10.65%,H
+27,22/02/2020,Crystal Palace,Newcastle United,33.33%,33.33%,33.33%,H
+27,22/02/2020,Southampton,Aston Villa,30.04%,54.94%,15.02%,H
+27,22/02/2020,Sheffield United,Brighton & Hove Albion,33.33%,33.33%,33.33%,D
+27,22/02/2020,Burnley,Bournemouth,57.14%,14.29%,28.57%,H
+27,22/02/2020,Leicester City,Manchester City,35.04%,24.92%,40.04%,A
+27,23/02/2020,Wolverhampton Wanderers,Norwich City,33.33%,33.33%,33.33%,H
+27,23/02/2020,Manchester United,Watford,74.68%,12.25%,13.07%,H
+27,23/02/2020,Arsenal,Everton,83.55%,8.49%,7.96%,H
+27,23/02/2020,Liverpool,West Ham United,60.00%,28.00%,12.00%,H
+28,28/02/2020,Norwich City,Leicester City,40.00%,20.00%,40.00%,H
+28,29/02/2020,Brighton & Hove Albion,Crystal Palace,33.33%,33.33%,33.33%,A
+28,29/02/2020,West Ham United,Southampton,65.15%,10.42%,24.43%,H
+28,29/02/2020,Bournemouth,Chelsea,15.38%,7.69%,76.92%,D
+28,29/02/2020,Newcastle United,Burnley,33.33%,33.33%,33.33%,D
+28,29/02/2020,Watford,Liverpool,52.89%,26.45%,20.66%,H
+28,01/03/2020,Tottenham Hotspur,Wolverhampton Wanderers,33.33%,33.33%,33.33%,A
+28,01/03/2020,Everton,Manchester United,65.62%,21.88%,12.50%,D
+28,17/06/2020,Aston Villa,Sheffield United,33.33%,33.33%,33.33%,D
+28,17/06/2020,Manchester City,Arsenal,42.79%,26.00%,31.20%,H
+29,07/03/2020,Liverpool,Bournemouth,43.86%,37.43%,18.71%,H
+29,07/03/2020,Crystal Palace,Watford,57.03%,20.79%,22.18%,H
+29,07/03/2020,Arsenal,West Ham United,80.89%,9.24%,9.86%,H
+29,07/03/2020,Southampton,Newcastle United,33.33%,33.33%,33.33%,A
+29,07/03/2020,Wolverhampton Wanderers,Brighton & Hove Albion,33.33%,33.33%,33.33%,D
+29,07/03/2020,Sheffield United,Norwich City,33.33%,33.33%,33.33%,H
+29,07/03/2020,Burnley,Tottenham Hotspur,10.00%,40.00%,50.00%,D
+29,08/03/2020,Chelsea,Everton,45.85%,26.20%,27.95%,H
+29,08/03/2020,Manchester United,Manchester City,17.42%,19.06%,63.52%,H
+29,09/03/2020,Leicester City,Aston Villa,58.44%,20.78%,20.78%,H
+30,19/06/2020,Norwich City,Southampton,68.09%,15.96%,15.96%,A
+30,19/06/2020,Tottenham Hotspur,Manchester United,69.20%,22.15%,8.65%,D
+30,20/06/2020,Watford,Leicester City,52.94%,17.65%,29.41%,D
+30,20/06/2020,Brighton & Hove Albion,Arsenal,33.33%,33.33%,33.33%,H
+30,20/06/2020,West Ham United,Wolverhampton Wanderers,33.33%,33.33%,33.33%,A
+30,20/06/2020,Bournemouth,Crystal Palace,13.01%,60.98%,26.02%,A
+30,21/06/2020,Newcastle United,Sheffield United,33.33%,33.33%,33.33%,H
+30,21/06/2020,Aston Villa,Chelsea,37.87%,17.75%,44.38%,A
+30,21/06/2020,Everton,Liverpool,17.50%,53.33%,29.17%,D
+30,22/06/2020,Manchester City,Burnley,47.21%,34.43%,18.36%,H
+31,23/06/2020,Leicester City,Brighton & Hove Albion,33.33%,33.33%,33.33%,D
+31,23/06/2020,Tottenham Hotspur,West Ham United,34.11%,40.94%,24.95%,H
+31,24/06/2020,Norwich City,Everton,24.19%,51.61%,24.19%,A
+31,24/06/2020,Manchester United,Sheffield United,33.33%,33.33%,33.33%,H
+31,24/06/2020,Wolverhampton Wanderers,Bournemouth,33.33%,33.33%,33.33%,H
+31,24/06/2020,Newcastle United,Aston Villa,33.33%,33.33%,33.33%,D
+31,24/06/2020,Liverpool,Crystal Palace,43.10%,13.79%,43.10%,H
+31,25/06/2020,Burnley,Watford,57.03%,20.79%,22.18%,H
+31,25/06/2020,Southampton,Arsenal,40.49%,37.02%,22.49%,A
+31,25/06/2020,Chelsea,Manchester City,44.83%,24.52%,30.65%,H
+32,27/06/2020,Aston Villa,Wolverhampton Wanderers,33.33%,33.33%,33.33%,A
+32,28/06/2020,Watford,Southampton,9.44%,72.85%,17.71%,A
+32,29/06/2020,Crystal Palace,Burnley,33.55%,35.78%,30.67%,A

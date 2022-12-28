@@ -1,0 +1,314 @@
+﻿MatchDay;Date;HomeTeam;AwayTeam;Result
+1;09/08/2019;Liverpool;Norwich City;H
+1;10/08/2019;West Ham United;Manchester City;A
+1;10/08/2019;Bournemouth;Sheffield United;D
+1;10/08/2019;Burnley;Southampton;H
+1;10/08/2019;Watford;Brighton & Hove Albion;A
+1;10/08/2019;Crystal Palace;Everton;D
+1;10/08/2019;Tottenham Hotspur;Aston Villa;H
+1;11/08/2019;Newcastle United;Arsenal;A
+1;11/08/2019;Leicester City;Wolverhampton Wanderers;D
+1;11/08/2019;Manchester United;Chelsea;H
+2;17/08/2019;Arsenal;Burnley;H
+2;17/08/2019;Brighton & Hove Albion;West Ham United;D
+2;17/08/2019;Southampton;Liverpool;A
+2;17/08/2019;Everton;Watford;H
+2;17/08/2019;Norwich City;Newcastle United;H
+2;17/08/2019;Aston Villa;Bournemouth;H
+2;17/08/2019;Manchester City;Tottenham Hotspur;D
+2;18/08/2019;Sheffield United;Crystal Palace;H
+2;18/08/2019;Chelsea;Leicester City;D
+2;19/09/2019;Wolverhampton Wanderers;Manchester United;D
+3;23/08/2019;Aston Villa;Everton;H
+3;24/08/2019;Norwich City;Chelsea;A
+3;24/08/2019;Brighton & Hove Albion;Southampton;A
+3;24/08/2019;Watford;West Ham United;A
+3;24/08/2019;Sheffield United;Leicester City;A
+3;24/08/2019;Manchester United;Crystal Palace;A
+3;24/08/2019;Liverpool;Arsenal;H
+3;25/08/2019;Bournemouth;Manchester City;A
+3;25/08/2019;Tottenham Hotspur;Newcastle United;A
+3;25/08/2019;Wolverhampton Wanderers;Burnley;D
+4;31/08/2019;Southampton;Manchester United;D
+4;31/08/2019;Crystal Palace;Aston Villa;H
+4;31/08/2019;Manchester City;Brighton & Hove Albion;H
+4;31/08/2019;Newcastle United;Watford;D
+4;31/08/2019;Leicester City;Bournemouth;H
+4;31/08/2019;West Ham United;Norwich City;H
+4;31/08/2019;Chelsea;Sheffield United;D
+4;31/08/2019;Burnley;Liverpool;A
+4;01/09/2019;Everton;Wolverhampton Wanderers;H
+4;01/09/2019;Arsenal;Tottenham Hotspur;D
+5;14/09/2019;Liverpool;Newcastle United;H
+5;14/09/2019;Sheffield United;Southampton;A
+5;14/09/2019;Wolverhampton Wanderers;Chelsea;A
+5;14/09/2019;Brighton & Hove Albion;Burnley;D
+5;14/09/2019;Tottenham Hotspur;Crystal Palace;H
+5;14/09/2019;Manchester United;Leicester City;H
+5;14/09/2019;Norwich City;Manchester City;H
+5;15/09/2019;Bournemouth;Everton;H
+5;15/09/2019;Watford;Arsenal;D
+5;16/09/2019;Aston Villa;West Ham United;D
+6;20/09/2019;Southampton;Bournemouth;A
+6;21/09/2019;Leicester City;Tottenham Hotspur;H
+6;21/09/2019;Manchester City;Watford;H
+6;21/09/2019;Burnley;Norwich City;H
+6;21/09/2019;Everton;Sheffield United;A
+6;21/09/2019;Newcastle United;Brighton & Hove Albion;D
+6;22/09/2019;Crystal Palace;Wolverhampton Wanderers;D
+6;22/09/2019;West Ham United;Manchester United;H
+6;22/09/2019;Chelsea;Liverpool;A
+6;22/09/2019;Arsenal;Aston Villa;H
+7;28/09/2019;Sheffield United;Liverpool;A
+7;28/09/2019;Crystal Palace;Norwich City;H
+7;28/09/2019;Wolverhampton Wanderers;Watford;H
+7;28/09/2019;Chelsea;Brighton & Hove Albion;H
+7;28/09/2019;Aston Villa;Burnley;D
+7;28/09/2019;Tottenham Hotspur;Southampton;H
+7;28/09/2019;Bournemouth;West Ham United;D
+7;28/09/2019;Everton;Manchester City;A
+7;29/09/2019;Leicester City;Newcastle United;H
+7;30/09/2019;Manchester United;Arsenal;D
+8;05/10/2019;Brighton & Hove Albion;Tottenham Hotspur;H
+8;05/10/2019;Liverpool;Leicester City;H
+8;05/10/2019;Burnley;Everton;H
+8;05/10/2019;Norwich City;Aston Villa;A
+8;05/10/2019;Watford;Sheffield United;D
+8;05/10/2019;West Ham United;Crystal Palace;A
+8;06/10/2019;Manchester City;Wolverhampton Wanderers;A
+8;06/10/2019;Arsenal;Bournemouth;H
+8;06/10/2019;Southampton;Chelsea;A
+8;06/10/2019;Newcastle United;Manchester United;H
+9;19/10/2019;Everton;West Ham United;H
+9;19/10/2019;Tottenham Hotspur;Watford;D
+9;19/10/2019;Leicester City;Burnley;H
+9;19/10/2019;Chelsea;Newcastle United;H
+9;19/10/2019;Wolverhampton Wanderers;Southampton;D
+9;19/10/2019;Bournemouth;Norwich City;D
+9;19/10/2019;Aston Villa;Brighton & Hove Albion;H
+9;19/10/2019;Crystal Palace;Manchester City;A
+9;20/10/2019;Manchester United;Liverpool;D
+9;21/10/2019;Sheffield United;Arsenal;H
+10;25/10/2019;Southampton;Leicester City;A
+10;26/10/2019;Manchester City;Aston Villa;H
+10;26/10/2019;West Ham United;Sheffield United;D
+10;26/10/2019;Watford;Bournemouth;D
+10;26/10/2019;Brighton & Hove Albion;Everton;H
+10;26/10/2019;Burnley;Chelsea;A
+10;27/10/2019;Newcastle United;Wolverhampton Wanderers;D
+10;27/10/2019;Liverpool;Tottenham Hotspur;H
+10;27/10/2019;Norwich City;Manchester United;A
+10;27/10/2019;Arsenal;Crystal Palace;D
+11;02/11/2019;Bournemouth;Manchester United;H
+11;02/11/2019;West Ham United;Newcastle United;A
+11;02/11/2019;Brighton & Hove Albion;Norwich City;H
+11;02/11/2019;Arsenal;Wolverhampton Wanderers;D
+11;02/11/2019;Aston Villa;Liverpool;A
+11;02/11/2019;Manchester City;Southampton;H
+11;02/11/2019;Sheffield United;Burnley;H
+11;02/11/2019;Watford;Chelsea;A
+11;03/11/2019;Crystal Palace;Leicester City;A
+11;03/11/2019;Everton;Tottenham Hotspur;D
+12;08/11/2019;Norwich City;Watford;A
+12;09/11/2019;Chelsea;Crystal Palace;H
+12;09/11/2019;Tottenham Hotspur;Sheffield United;D
+12;09/11/2019;Southampton;Everton;A
+12;09/11/2019;Newcastle United;Bournemouth;H
+12;09/11/2019;Burnley;West Ham United;H
+12;09/11/2019;Leicester City;Arsenal;H
+12;10/11/2019;Manchester United;Brighton & Hove Albion;H
+12;10/11/2019;Wolverhampton Wanderers;Aston Villa;H
+12;10/11/2019;Liverpool;Manchester City;H
+13;23/11/2019;West Ham United;Tottenham Hotspur;A
+13;23/11/2019;Watford;Burnley;A
+13;23/11/2019;Brighton & Hove Albion;Leicester City;A
+13;23/11/2019;Everton;Norwich City;A
+13;23/11/2019;Crystal Palace;Liverpool;A
+13;23/11/2019;Bournemouth;Wolverhampton Wanderers;A
+13;23/11/2019;Arsenal;Southampton;D
+13;23/11/2019;Manchester City;Chelsea;H
+13;24/11/2019;Sheffield United;Manchester United;D
+13;25/11/2019;Aston Villa;Newcastle United;H
+14;30/11/2019;Newcastle United;Manchester City;D
+14;30/11/2019;Burnley;Crystal Palace;A
+14;30/11/2019;Liverpool;Brighton & Hove Albion;H
+14;30/11/2019;Tottenham Hotspur;Bournemouth;H
+14;30/11/2019;Chelsea;West Ham United;A
+14;30/11/2019;Southampton;Watford;H
+14;01/12/2019;Wolverhampton Wanderers;Sheffield United;D
+14;01/12/2019;Norwich City;Arsenal;D
+14;01/12/2019;Manchester United;Aston Villa;D
+14;01/12/2019;Leicester City;Everton;H
+15;03/12/2019;Crystal Palace;Bournemouth;H
+15;03/12/2019;Burnley;Manchester City;A
+15;04/12/2019;Southampton;Norwich City;H
+15;04/12/2019;Wolverhampton Wanderers;West Ham United;H
+15;04/12/2019;Leicester City;Watford;H
+15;04/12/2019;Manchester United;Tottenham Hotspur;H
+15;04/12/2019;Chelsea;Aston Villa;H
+15;04/12/2019;Liverpool;Everton;H
+15;05/12/2019;Sheffield United;Newcastle United;A
+15;05/12/2019;Arsenal;Brighton & Hove Albion;A
+16;07/12/2019;Everton;Chelsea;H
+16;07/12/2019;Watford;Crystal Palace;D
+16;07/12/2019;Tottenham Hotspur;Burnley;H
+16;07/12/2019;Bournemouth;Liverpool;A
+16;07/12/2019;Manchester City;Manchester United;A
+16;08/12/2019;Norwich City;Sheffield United;A
+16;08/12/2019;Newcastle United;Southampton;H
+16;08/12/2019;Aston Villa;Leicester City;A
+16;08/12/2019;Brighton & Hove Albion;Wolverhampton Wanderers;D
+16;09/12/2019;West Ham United;Arsenal;A
+17;14/12/2019;Liverpool;Watford;H
+17;14/12/2019;Chelsea;Bournemouth;A
+17;14/12/2019;Sheffield United;Aston Villa;H
+17;14/12/2019;Burnley;Newcastle United;H
+17;14/12/2019;Leicester City;Norwich City;D
+17;14/12/2019;Southampton;West Ham United;A
+17;15/12/2019;Wolverhampton Wanderers;Tottenham Hotspur;A
+17;15/12/2019;Manchester United;Everton;D
+17;15/12/2019;Arsenal;Manchester City;A
+17;16/12/2019;Crystal Palace;Brighton & Hove Albion;D
+18;21/12/2019;Everton;Arsenal;D
+18;21/12/2019;Newcastle United;Crystal Palace;H
+18;21/12/2019;Aston Villa;Southampton;A
+18;21/12/2019;Bournemouth;Burnley;A
+18;21/12/2019;Brighton & Hove Albion;Sheffield United;A
+18;21/12/2019;Norwich City;Wolverhampton Wanderers;A
+18;21/12/2019;Manchester City;Leicester City;H
+18;22/12/2019;Watford;Manchester United;H
+18;22/12/2019;Tottenham Hotspur;Chelsea;A
+18;29/01/2020;West Ham United;Liverpool;A
+19;26/12/2019;Tottenham Hotspur;Brighton & Hove Albion;H
+19;26/12/2019;Chelsea;Southampton;A
+19;26/12/2019;Aston Villa;Norwich City;H
+19;26/12/2019;Bournemouth;Arsenal;D
+19;26/12/2019;Crystal Palace;West Ham United;H
+19;26/12/2019;Sheffield United;Watford;D
+19;26/12/2019;Everton;Burnley;H
+19;26/12/2019;Manchester United;Newcastle United;H
+19;26/12/2019;Leicester City;Liverpool;A
+19;27/12/2019;Wolverhampton Wanderers;Manchester City;H
+20;28/12/2019;Brighton & Hove Albion;Bournemouth;H
+20;28/12/2019;Southampton;Crystal Palace;D
+20;28/12/2019;Newcastle United;Everton;A
+20;28/12/2019;Watford;Aston Villa;H
+20;28/12/2019;Norwich City;Tottenham Hotspur;D
+20;28/12/2019;West Ham United;Leicester City;A
+20;28/12/2019;Burnley;Manchester United;A
+20;29/12/2019;Arsenal;Chelsea;A
+20;29/12/2019;Liverpool;Wolverhampton Wanderers;H
+20;29/12/2019;Manchester City;Sheffield United;H
+21;01/01/2020;Burnley;Aston Villa;A
+21;01/01/2020;Brighton & Hove Albion;Chelsea;D
+21;01/01/2020;Southampton;Tottenham Hotspur;H
+21;01/01/2020;Newcastle United;Leicester City;A
+21;01/01/2020;Watford;Wolverhampton Wanderers;H
+21;01/01/2020;Norwich City;Crystal Palace;D
+21;01/01/2020;Manchester City;Everton;H
+21;01/01/2020;West Ham United;Bournemouth;H
+21;01/01/2020;Arsenal;Manchester United;H
+21;02/01/2020;Liverpool;Sheffield United;H
+22;10/01/2020;Sheffield United;West Ham United;H
+22;11/01/2020;Crystal Palace;Arsenal;D
+22;11/01/2020;Chelsea;Burnley;H
+22;11/01/2020;Everton;Brighton & Hove Albion;H
+22;11/01/2020;Manchester United;Norwich City;H
+22;11/01/2020;Wolverhampton Wanderers;Newcastle United;D
+22;11/01/2020;Leicester City;Southampton;A
+22;11/01/2020;Tottenham Hotspur;Liverpool;A
+22;12/01/2020;Bournemouth;Watford;A
+22;12/01/2020;Aston Villa;Manchester City;A
+23;18/01/2020;Watford;Tottenham Hotspur;D
+23;18/01/2020;Manchester City;Crystal Palace;D
+23;18/01/2020;Norwich City;Bournemouth;H
+23;18/01/2020;Southampton;Wolverhampton Wanderers;A
+23;18/01/2020;Arsenal;Sheffield United;D
+23;18/01/2020;West Ham United;Everton;D
+23;18/01/2020;Brighton & Hove Albion;Aston Villa;D
+23;18/01/2020;Newcastle United;Chelsea;H
+23;19/01/2020;Burnley;Leicester City;H
+23;19/01/2020;Liverpool;Manchester United;H
+24;21/01/2020;Everton;Newcastle United;D
+24;21/01/2020;Sheffield United;Manchester City;A
+24;21/01/2020;Bournemouth;Brighton & Hove Albion;H
+24;21/01/2020;Crystal Palace;Southampton;A
+24;21/01/2020;Aston Villa;Watford;H
+24;21/01/2020;Chelsea;Arsenal;D
+24;22/01/2020;Leicester City;West Ham United;H
+24;22/01/2020;Tottenham Hotspur;Norwich City;H
+24;22/01/2020;Manchester United;Burnley;A
+24;23/01/2020;Wolverhampton Wanderers;Liverpool;A
+25;01/02/2020;Leicester City;Chelsea;D
+25;01/02/2020;Crystal Palace;Sheffield United;A
+25;01/02/2020;Bournemouth;Aston Villa;H
+25;01/02/2020;Newcastle United;Norwich City;D
+25;01/02/2020;Watford;Everton;A
+25;01/02/2020;West Ham United;Brighton & Hove Albion;D
+25;01/02/2020;Liverpool;Southampton;H
+25;01/02/2020;Manchester United;Wolverhampton Wanderers;D
+25;02/02/2020;Burnley;Arsenal;D
+25;02/02/2020;Tottenham Hotspur;Manchester City;H
+26;08/02/2020;Everton;Crystal Palace;H
+26;08/02/2020;Brighton & Hove Albion;Watford;D
+26;09/02/2020;Sheffield United;Bournemouth;H
+26;14/02/2020;Wolverhampton Wanderers;Leicester City;D
+26;15/02/2020;Southampton;Burnley;A
+26;15/02/2020;Norwich City;Liverpool;A
+26;16/02/2020;Aston Villa;Tottenham Hotspur;A
+26;16/02/2020;Arsenal;Newcastle United;H
+26;17/02/2020;Chelsea;Manchester United;A
+26;19/02/2020;Manchester City;West Ham United;H
+27;22/02/2020;Chelsea;Tottenham Hotspur;H
+27;22/02/2020;Crystal Palace;Newcastle United;H
+27;22/02/2020;Southampton;Aston Villa;H
+27;22/02/2020;Sheffield United;Brighton & Hove Albion;D
+27;22/02/2020;Burnley;Bournemouth;H
+27;22/02/2020;Leicester City;Manchester City;A
+27;23/02/2020;Wolverhampton Wanderers;Norwich City;H
+27;23/02/2020;Manchester United;Watford;H
+27;23/02/2020;Arsenal;Everton;H
+27;23/02/2020;Liverpool;West Ham United;H
+28;28/02/2020;Norwich City;Leicester City;H
+28;29/02/2020;Brighton & Hove Albion;Crystal Palace;A
+28;29/02/2020;West Ham United;Southampton;H
+28;29/02/2020;Bournemouth;Chelsea;D
+28;29/02/2020;Newcastle United;Burnley;D
+28;29/02/2020;Watford;Liverpool;H
+28;01/03/2020;Tottenham Hotspur;Wolverhampton Wanderers;A
+28;01/03/2020;Everton;Manchester United;D
+28;17/06/2020;Aston Villa;Sheffield United;D
+28;17/06/2020;Manchester City;Arsenal;H
+29;07/03/2020;Liverpool;Bournemouth;H
+29;07/03/2020;Crystal Palace;Watford;H
+29;07/03/2020;Arsenal;West Ham United;H
+29;07/03/2020;Southampton;Newcastle United;A
+29;07/03/2020;Wolverhampton Wanderers;Brighton & Hove Albion;D
+29;07/03/2020;Sheffield United;Norwich City;H
+29;07/03/2020;Burnley;Tottenham Hotspur;D
+29;08/03/2020;Chelsea;Everton;H
+29;08/03/2020;Manchester United;Manchester City;H
+29;09/03/2020;Leicester City;Aston Villa;H
+30;19/06/2020;Norwich City;Southampton;A
+30;19/06/2020;Tottenham Hotspur;Manchester United;D
+30;20/06/2020;Watford;Leicester City;D
+30;20/06/2020;Brighton & Hove Albion;Arsenal;H
+30;20/06/2020;West Ham United;Wolverhampton Wanderers;A
+30;20/06/2020;Bournemouth;Crystal Palace;A
+30;21/06/2020;Newcastle United;Sheffield United;H
+30;21/06/2020;Aston Villa;Chelsea;A
+30;21/06/2020;Everton;Liverpool;D
+30;22/06/2020;Manchester City;Burnley;H
+31;23/06/2020;Leicester City;Brighton & Hove Albion;D
+31;23/06/2020;Tottenham Hotspur;West Ham United;H
+31;24/06/2020;Norwich City;Everton;A
+31;24/06/2020;Manchester United;Sheffield United;H
+31;24/06/2020;Wolverhampton Wanderers;Bournemouth;H
+31;24/06/2020;Newcastle United;Aston Villa;D
+31;24/06/2020;Liverpool;Crystal Palace;H
+31;25/06/2020;Burnley;Watford;H
+31;25/06/2020;Southampton;Arsenal;A
+31;25/06/2020;Chelsea;Manchester City;H
+32;27/06/2020;Aston Villa;Wolverhampton Wanderers;A
+32;28/06/2020;Watford;Southampton;A
+32;29/06/2020;Crystal Palace;Burnley;A
